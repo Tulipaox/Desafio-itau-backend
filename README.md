@@ -47,7 +47,6 @@ src/
 ├── services/        # Regras de negócio
 ├── error-http/      # error 
 ├── tests/           # Testes com Jest e Supertest
-├── router.ts        # routas da aplicação
 └── server.ts        # Inicialização do servidor
 ```
 
