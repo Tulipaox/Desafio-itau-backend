@@ -45,9 +45,9 @@ src/
 ├── controllers/     # Lógica das rotas
 ├── routes/          # Definição de endpoints
 ├── services/        # Regras de negócio
-├── middlewares/     # Validações e interceptadores
+├── error-http/      # error 
 ├── tests/           # Testes com Jest e Supertest
-├── app.ts           # Configuração da aplicação
+├── router.ts        # routas da aplicação
 └── server.ts        # Inicialização do servidor
 ```
 
