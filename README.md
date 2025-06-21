@@ -63,20 +63,19 @@ src/
 ```bash
 1. **Clone o repositório:**
 
-git clone https://github.com/seu-usuario/desafio-itau-backend.git
-    cd desafio-itau-backend
+    https://github.com/Tulipaox/Desafio-itau-backend.git
 
-2. Instale as dependências:
+2. **Instale as dependências:**
     npm install
 
-3- (Opcional) Execute os testes:
+3- **(Opcional) Execute os testes:**
     npm test
 
-4- Inicie a aplicação:
+4- **Inicie a aplicação:**
     npm start
 
-5- Acesse no navegador ou Postman, Insomnia
+5- **Acesse no navegador ou Postman, Insomnia**
     (http://localhost:3000)
 
-6- Documentação Swagger:
+6- **Documentação Swagger:**
      http://localhost:3000/api-docs   
